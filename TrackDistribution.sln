@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDistribution.Domain", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDistribution.Application", "TrackDistribution.Application\TrackDistribution.Application.csproj", "{1D04E703-9900-4C49-ACD2-0B794621D81F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDistribution.Infrastructure", "TrackDistribution.Infrastructure\TrackDistribution.Infrastructure.csproj", "{038B0906-6FD5-41E9-9108-7641F3AF093E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1D04E703-9900-4C49-ACD2-0B794621D81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D04E703-9900-4C49-ACD2-0B794621D81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D04E703-9900-4C49-ACD2-0B794621D81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038B0906-6FD5-41E9-9108-7641F3AF093E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038B0906-6FD5-41E9-9108-7641F3AF093E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038B0906-6FD5-41E9-9108-7641F3AF093E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038B0906-6FD5-41E9-9108-7641F3AF093E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
