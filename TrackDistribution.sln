@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDistribution.Applicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDistribution.Infrastructure", "TrackDistribution.Infrastructure\TrackDistribution.Infrastructure.csproj", "{038B0906-6FD5-41E9-9108-7641F3AF093E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDistribution.Api", "TrackDistribution.Api\TrackDistribution.Api.csproj", "{648A65FB-0F2F-4772-B595-9E3710C071C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{038B0906-6FD5-41E9-9108-7641F3AF093E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038B0906-6FD5-41E9-9108-7641F3AF093E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038B0906-6FD5-41E9-9108-7641F3AF093E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648A65FB-0F2F-4772-B595-9E3710C071C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648A65FB-0F2F-4772-B595-9E3710C071C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648A65FB-0F2F-4772-B595-9E3710C071C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648A65FB-0F2F-4772-B595-9E3710C071C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
